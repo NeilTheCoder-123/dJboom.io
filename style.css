@@ -1,0 +1,35 @@
+.notice{
+    width: /*60rem*/89rem; 
+    background-image: linear-gradient(to left, rgb(0, 238, 255),yellow); 
+    padding: 0px 1px 1px 1px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-family: 'Concert One', cursive;
+    box-shadow: 1px 1px 38px black;
+}
+
+.notice:hover{
+    background-image: linear-gradient(to right, rgb(0, 238, 255),yellow); 
+}
+
+.djify{
+    /*background-color: blanchedalmond;
+    background-image: linear-gradient(to left, rgb(21, 255, 0), rgb(0, 255, 255));*/
+    background-image: linear-gradient(to left, rgb(0, 238, 255),yellow); 
+    border: 5px solid rgb(255, 153, 0);
+    color: black;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-top: -15px;
+}
+
+.djify:hover{
+    background-color: rgb(245, 217, 175);
+}
+
+canvas{
+    border: 10px solid white;
+    /*margin-top: 3.6in;*/
+    margin-top: 303px;
+}
